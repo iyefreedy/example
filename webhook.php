@@ -1,3 +1,3 @@
 <?php
 
-exec('git pull');
+shell_exec('cd /var/www/example && git pull');
