@@ -93,9 +93,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		<div id="body">
 			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ex amet veritatis laboriosam nisi quod quae sit quis in, enim fugiat sed perferendis quos facilis? Ducimus molestiae nihil cupiditate omnis odio aliquam consequuntur eveniet ullam. Cumque dicta totam eos facere? Numquam autem maiores, possimus veniam hic repellendus est minima! Quis illum mollitia, officiis temporibus corporis ipsam obcaecati ab. Repudiandae, quam labore. Est ipsam dolores rerum quos, ab odit eos soluta similique? Laborum, tempore nostrum adipisci, ut eaque commodi asperiores hic minus sit rem aspernatur accusantium, dolorem reiciendis quibusdam dolore accusamus placeat perferendis pariatur blanditiis quos! Repellendus architecto fugit et animi.</p>
 
-			<p>If you would like to edit this page you'll find it located at:</p>
-			<code>application/views/welcome_message.php</code>
-
 			<p>The corresponding controller for this page is found at:</p>
 			<code>application/controllers/Welcome.php</code>
 
